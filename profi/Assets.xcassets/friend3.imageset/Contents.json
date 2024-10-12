@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Matthew_Perry_as_Chandler_Bing.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Matthew_Perry_as_Chandler_Bing@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Matthew_Perry_as_Chandler_Bing@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
